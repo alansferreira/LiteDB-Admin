@@ -1,0 +1,16 @@
+D:\github.com\!stages\LiteDB-Admin\LiteDB-Admin\bin\Debug\LiteDB-Admin.exe
+D:\github.com\!stages\LiteDB-Admin\LiteDB-Admin\bin\Debug\LiteDB-Admin.pdb
+D:\github.com\!stages\LiteDB-Admin\LiteDB-Admin\bin\Debug\LiteDB.dll
+D:\github.com\!stages\LiteDB-Admin\LiteDB-Admin\bin\Debug\MetroFramework.dll
+D:\github.com\!stages\LiteDB-Admin\LiteDB-Admin\bin\Debug\MetroFramework.Fonts.dll
+D:\github.com\!stages\LiteDB-Admin\LiteDB-Admin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\github.com\!stages\LiteDB-Admin\LiteDB-Admin\bin\Debug\LiteDB.xml
+D:\github.com\!stages\LiteDB-Admin\LiteDB-Admin\obj\Debug\LiteDB-Admin.csprojResolveAssemblyReference.cache
+D:\github.com\!stages\LiteDB-Admin\LiteDB-Admin\obj\Debug\LiteDB_Admin.Form1.resources
+D:\github.com\!stages\LiteDB-Admin\LiteDB-Admin\obj\Debug\LiteDB_Admin.Properties.Resources.resources
+D:\github.com\!stages\LiteDB-Admin\LiteDB-Admin\obj\Debug\LiteDB-Admin.csproj.GenerateResource.Cache
+D:\github.com\!stages\LiteDB-Admin\LiteDB-Admin\obj\Debug\LiteDB-Admin.exe
+D:\github.com\!stages\LiteDB-Admin\LiteDB-Admin\obj\Debug\LiteDB-Admin.pdb
+D:\github.com\!stages\LiteDB-Admin\LiteDB-Admin\obj\Debug\LiteDB_Admin.frmNavigator.resources
+D:\github.com\!stages\LiteDB-Admin\LiteDB-Admin\bin\Debug\Aga.Controls.dll
+D:\github.com\!stages\LiteDB-Admin\LiteDB-Admin\bin\Debug\FastColoredTextBox.dll

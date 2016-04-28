@@ -8,14 +8,14 @@ using System.Text;
 using System.Windows.Forms;
 
 namespace LiteDB_Admin {
-    public partial class Form1 : MetroFramework.Forms.MetroForm {
-        public Form1() {
+    public partial class frmNavigator : WeifenLuo.WinFormsUI.Docking.DockContent {
+
+        public frmNavigator() {
             InitializeComponent();
-            this.Load += Form1_Load;
         }
 
-        private void Form1_Load(object sender, EventArgs e) {
-            new frmNavigator().Show(dockPanel1);
+        private void toolStripButton1_Click(object sender, EventArgs e) {
+            treeView1.Nodes.Add(new TreeNode("sadf"));
         }
     }
 }
